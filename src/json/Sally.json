@@ -1,0 +1,17 @@
+{
+  "name": "Sally",
+  "workExp": [
+    {
+      "company": "Lorem Ipsum University",
+      "jobTitle": "Professor of Placeholding",
+      "date": "2015-2018",
+      "desc": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "company": "Consectetur Research Labs",
+      "jobTitle": "Placeholding Researcher",
+      "date": "2018-current",
+      "desc": "...consectetur adipiscing elit..."
+    }
+  ]
+}
